@@ -8,6 +8,7 @@
     name= _ "Mounted Royal Warrior"
     race=human
     gender=male
+    {TRAIT_FEARLESS}
     image="units/ironriders/mounted royal warrior.png"
     profile="portraits/humans/cavalier.png"
     hitpoints=125
